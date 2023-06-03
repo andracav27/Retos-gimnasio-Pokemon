@@ -1,0 +1,31 @@
+a{
+    display:list-item;
+    
+    background-position:center;
+    width: 90px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    border-radius: 10px;
+    margin:  150 px 130 px;
+    padding: 15px 30px;
+    text-decoration: none;
+    color: beige;
+    background-color: red;
+
+}
+a:hover{
+    background-color: transparent;
+    border: 2px solid red;
+    color: red;
+}
+
+body{
+    background-image: url("/assets/images/fondo2.png");
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    
+    
+    color: aliceblue;
+
+}
